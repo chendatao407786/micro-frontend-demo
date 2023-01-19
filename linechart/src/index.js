@@ -19,4 +19,3 @@ myChart.setOption({
 // Specify the configuration items and data for the chart
 
 // Display the chart using the configuration items and data just specified.
-myChart.setOption(option);
